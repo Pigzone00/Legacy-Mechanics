@@ -1,6 +1,6 @@
 ## 📖 Description
 
-**Legacy Mechanics** brings back the **quirky mechanics and nostalgic features** from Minecraft’s old Legacy Console Editions.
+**Legacy Mechanics** is a mod/datapack that aims to bring back the **quirky mechanics and nostalgic features** from Minecraft’s old Legacy Console Editions.
 
 This mod is designed for players who want the **console-era gameplay feel**, complete with small world options, unique mob behaviors, and classic item quirks — all blended with **modern Minecraft’s content** so nothing feels missing.
 
@@ -9,12 +9,9 @@ Some of the features include:
 * **Legacy Console Achievements** restored.
 * **Small world type** for a more compact console-style survival experience.
 * **Closer structure spacing** to replicate console exploration.
-* **Dead bushes always drop 1 stick.**
 * **Craftable Enchanted Golden Apples** with 8 gold blocks + 1 apple.
-* **Jack-O-Lanterns & Jungle Tree Saplings** restored to their old names.
 * **Fortune on melons** can drop up to 10 slices with Fortune III.
 * **Sand and Red Sand** now smeltable in blast furnaces.
-* **Short Grass → “Tall Grass”** and **Tall Grass → “Double Tall Grass.”**
 * **Minecarts** move at twice their Java speed.
 * **Phantoms** have half their normal health.
 * **Vindicators** deal reduced damage (console values).
@@ -100,5 +97,5 @@ For the best nostalgic experience, **Legacy Mechanics** pairs well with resource
 
 ## 🤝 Support
 
-* 💬 Join the community on [**Discord**](https://discord.com/invite/S94fHA3Gs4)
-* 🛠️ Report issues or contribute on [**GitHub**](https://github.com/your-repo-link)
+* 💬 Join the community on [**Discord**](https://discord.com/invite/discord-link)
+* 🛠️ Report issues or contribute on [**GitHub**](https://github.com/repo-link)
