@@ -1,21 +1,26 @@
+<img width="1539" height="365" alt="TN" src="https://github.com/user-attachments/assets/3a5e5527-333a-47e2-9443-8f038c11eb65" />
+
+
+---
+
 ## 📖 Description
 
-**Legacy Mechanics** is a mod/datapack that aims to bring back the **quirky mechanics and nostalgic features** from Minecraft’s old Legacy Console Editions.
+**Legacy Mechanics** is a mod/datapack that aims to bring back the **quirky mechanics and nostalgic features** from the Legacy Console Editions of Minecraft.
 
-This mod is designed for players who want the **console-era gameplay feel**, complete with small world options, unique mob behaviors, and classic item quirks — all blended with **modern Minecraft’s content** so nothing feels missing.
+This mod is designed for players who want the **console-era gameplay feel**, complete with small world options, unique mob behaviors, and classic item quirks, all blended with **modern Minecraft’s content** so nothing feels missing.
 
 Some of the features include:
 
 * **Legacy Console Achievements** restored.
-* **Small world type** for a more compact console-style survival experience.
-* **Closer structure spacing** to replicate console exploration.
+* Coming Soon: **Small world type** for a more compact console-style survival experience.
+* Coming Soon: **Closer structure spacing** to replicate console exploration.
 * **Craftable Enchanted Golden Apples** with 8 gold blocks + 1 apple.
 * **Fortune on melons** can drop up to 10 slices with Fortune III.
-* **Sand and Red Sand** now smeltable in blast furnaces.
-* **Minecarts** move at twice their Java speed.
-* **Phantoms** have half their normal health.
-* **Vindicators** deal reduced damage (console values).
-* **Wandering Traders** can sell lilacs, rose bushes, sunflowers, peonies, and red sandstone.
+* Coming Soon: **Sand and Red Sand** now smeltable in blast furnaces.
+* Coming Soon: **Minecarts** move at twice their Java speed.
+* Coming Soon: **Phantoms** have half their normal health.
+* Coming Soon: **Vindicators** deal reduced damage (console values).
+* Coming Soon: **Wandering Traders** can sell lilacs, rose bushes, sunflowers, peonies, and red sandstone.
 
 ---
 
@@ -82,7 +87,8 @@ For the best nostalgic experience, **Legacy Mechanics** pairs well with resource
 <details>  
 <summary>Images</summary>  
 
-*(Screenshots of small worlds, closer villages, console-style features, etc. can go here.)*
+<img width="1920" height="1081" alt="2025-10-07_23 18 00" src="https://github.com/user-attachments/assets/11addb1c-7134-40a4-91f6-996dee5ebf91" />
+
 
 </details>  
 
@@ -98,4 +104,4 @@ For the best nostalgic experience, **Legacy Mechanics** pairs well with resource
 ## 🤝 Support
 
 * 💬 Join the community on [**Discord**](https://discord.com/invite/discord-link)
-* 🛠️ Report issues or contribute on [**GitHub**](https://github.com/repo-link)
+* 🛠️ Report issues or contribute on [**GitHub**](https://github.com/Pigzone00/Legacy-Mechanics)
