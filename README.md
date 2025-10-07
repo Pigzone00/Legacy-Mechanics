@@ -103,5 +103,5 @@ For the best nostalgic experience, **Legacy Mechanics** pairs well with resource
 
 ## 🤝 Support
 
-* 💬 Join the community on [**Discord**](https://discord.com/invite/discord-link)
+* 💬 Join the community on [**Discord**](https://discord.com/invite/ByYuaN9Qp6)
 * 🛠️ Report issues or contribute on [**GitHub**](https://github.com/Pigzone00/Legacy-Mechanics)
