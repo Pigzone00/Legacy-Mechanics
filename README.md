@@ -32,25 +32,29 @@ Some of the features include:
 ## Key:
 
 ✅ - Implemented
+
+⚠️ - Not Fully Implemented
+
 ☑️ - Planned
+
 ❌ - Not Implemented
 
 | **Feature**                                         | Implemented | Planned |
 | --------------------------------------------------- | ----------- | ------- |
-| Console-style Achievements                          | ✅           | ☑️      |
-| Legacy Console small world type                     | ✅           | ☑️      |
-| Closer structure generation                         | ✅           | ☑️      |
+| Console-style Achievements                          | ⚠️           | ☑️      |
+| Legacy Console small world type                     | ❌           | ☑️      |
+| Closer structure generation                         | ❌           | ☑️      |
 | Dead bushes drop 1 stick                            | ✅           | ☑️      |
 | Enchanted Golden Apple crafting recipe              | ✅           | ☑️      |
-| Jack-O-Lantern & Jungle Tree Sapling names restored | ✅           | ☑️      |
+| Jack-O-Lantern & Jungle Tree Sapling names restored | ❌           | ☑️      |
 | Fortune melons (up to 10 slices)                    | ✅           | ☑️      |
-| Sand/Red Sand blast furnace smelting                | ✅           | ☑️      |
-| Short Grass → Tall Grass                            | ✅           | ☑️      |
-| Tall Grass → Double Tall Grass                      | ✅           | ☑️      |
-| Minecarts move 2× faster                            | ✅           | ☑️      |
-| Phantoms have 10 HP                                 | ✅           | ☑️      |
-| Vindicators deal reduced damage                     | ✅           | ☑️      |
-| Wandering Traders sell flowers & red sandstone      | ✅           | ☑️      |
+| Sand/Red Sand blast furnace smelting                | ❌           | ☑️      |
+| Short Grass → Tall Grass                            | ❌           | ☑️      |
+| Tall Grass → Double Tall Grass                      | ❌           | ☑️      |
+| Minecarts move 2× faster                            | ❌           | ☑️      |
+| Phantoms have 10 HP                                 | ❌           | ☑️      |
+| Vindicators deal reduced damage                     | ❌           | ☑️      |
+| Wandering Traders sell flowers & red sandstone      | ❌           | ☑️      |
 
 </details>  
 
