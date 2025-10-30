@@ -16,7 +16,7 @@ Some of the features include:
 * Coming Soon: **Closer structure spacing** to replicate console exploration.
 * **Craftable Enchanted Golden Apples** with 8 gold blocks + 1 apple.
 * **Fortune on melons** can drop up to 10 slices with Fortune III.
-* Coming Soon: **Sand and Red Sand** now smeltable in blast furnaces.
+* **Sand and Red Sand** now smeltable in blast furnaces.
 * Coming Soon: **Minecarts** move at twice their Java speed.
 * Coming Soon: **Phantoms** have half their normal health.
 * Coming Soon: **Vindicators** deal reduced damage (console values).
@@ -48,7 +48,7 @@ Some of the features include:
 | Enchanted Golden Apple crafting recipe              | ✅           | ☑️      |
 | Jack-O-Lantern & Jungle Tree Sapling names restored | ❌           | ☑️      |
 | Fortune melons (up to 10 slices)                    | ✅           | ☑️      |
-| Sand/Red Sand blast furnace smelting                | ❌           | ☑️      |
+| Sand/Red Sand blast furnace smelting                | ✅           | ☑️      |
 | Short Grass → Tall Grass                            | ❌           | ☑️      |
 | Tall Grass → Double Tall Grass                      | ❌           | ☑️      |
 | Minecarts move 2× faster                            | ❌           | ☑️      |
