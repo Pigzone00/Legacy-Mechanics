@@ -13,7 +13,7 @@
     }
   },
   "display": {
-    "description": "Craft a workbench with four blocks of Wooden Planks.",
+    "description": "Craft a workbench with four blocks of wooden planks.",
     "icon": {
       "count": 1,
       "id": "minecraft:crafting_table"

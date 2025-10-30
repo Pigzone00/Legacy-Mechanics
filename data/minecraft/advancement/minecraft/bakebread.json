@@ -4,7 +4,7 @@
       "id": "minecraft:bread"
     },
     "title": "Bake Bread",
-    "description": "Turn Wheat into Bread.",
+    "description": "Turn wheat into bread.",
     "frame": "task"
   },
   "parent": "minecraft:minecraft/timetofarm",

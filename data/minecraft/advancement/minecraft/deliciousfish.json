@@ -4,7 +4,7 @@
       "id": "minecraft:cod"
     },
     "title": "Delicious Fish",
-    "description": "Catch and cook Fish!",
+    "description": "Catch and cook a fish!",
     "frame": "task"
   },
   "parent": "minecraft:story/upgrade_tools",

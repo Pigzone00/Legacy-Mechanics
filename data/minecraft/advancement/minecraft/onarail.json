@@ -4,7 +4,7 @@
       "id": "minecraft:rail"
     },
     "title": "On A Rail",
-    "description": "Travel by Minecart to a point at least 500m in a single direction from where you started.",
+    "description": "Travel by minecart to a point at least 500m in a single direction from where you started.",
     "frame": "task"
   },
   "parent": "minecraft:minecraft/deliciousfish",

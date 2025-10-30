@@ -1,20 +1,20 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:furnace"
+      "id": "minecraft:diamond_ore"
     },
-    "title": "Hot Topic",
-    "description": "Construct a furnace out of eight cobblestone blocks.",
+    "title": "DIAMONDS!",
+    "description": "Acquire diamonds with your iron tools.",
     "frame": "task"
   },
-  "parent": "minecraft:minecraft/timetomine",
+  "parent": "minecraft:adventure/sniper_duel",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": "minecraft:furnace"
+            "items": "minecraft:diamond"
           }
         ]
       }

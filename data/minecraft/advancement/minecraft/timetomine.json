@@ -4,7 +4,7 @@
       "id": "minecraft:wooden_pickaxe"
     },
     "title": "Time to Mine!",
-    "description": "Use Planks and Sticks to make a Pickaxe.",
+    "description": "Use planks and sticks to make a pickaxe.",
     "frame": "task"
   },
   "parent": "minecraft:minecraft/benchmarking",
