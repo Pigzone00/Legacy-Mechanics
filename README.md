@@ -17,7 +17,6 @@ Some of the features include:
 * **Craftable Enchanted Golden Apples** with 8 gold blocks + 1 apple.
 * **Fortune on melons** can drop up to 10 slices with Fortune III.
 * **Sand and Red Sand** now smeltable in blast furnaces.
-* Coming Soon: **Minecarts** move at twice their Java speed.
 * Coming Soon: **Phantoms** have half their normal health.
 * Coming Soon: **Vindicators** deal reduced damage (console values).
 * Coming Soon: **Wandering Traders** can sell lilacs, rose bushes, sunflowers, peonies, and red sandstone.
@@ -51,7 +50,6 @@ Some of the features include:
 | Sand/Red Sand blast furnace smelting                | ✅           | ☑️      |
 | Short Grass → Tall Grass                            | ❌           | ☑️      |
 | Tall Grass → Double Tall Grass                      | ❌           | ☑️      |
-| Minecarts move 2× faster                            | ❌           | ☑️      |
 | Phantoms have 10 HP                                 | ❌           | ☑️      |
 | Vindicators deal reduced damage                     | ❌           | ☑️      |
 | Wandering Traders sell flowers & red sandstone      | ❌           | ☑️      |
