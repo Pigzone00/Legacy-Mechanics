@@ -21,6 +21,8 @@ Some of the features include:
 * Coming Soon: **Vindicators** deal reduced damage (console values).
 * Coming Soon: **Wandering Traders** can sell lilacs, rose bushes, sunflowers, peonies, and red sandstone.
 
+For the complete experience, make sure to install [Legacy Mechanics: Addon](https://modrinth.com/resourcepack/legacy-mechanics-addon)
+
 ---
 
 ## ✨ Feature list
@@ -31,6 +33,8 @@ Some of the features include:
 ## Key:
 
 ✅ - Implemented
+
+✔️ - Implemented as part of [Addon](https://modrinth.com/resourcepack/legacy-mechanics-addon)
 
 ⚠️ - Not Fully Implemented
 
@@ -45,11 +49,11 @@ Some of the features include:
 | Closer structure generation                         | ❌           | ☑️      |
 | Dead bushes drop 1 stick                            | ✅           | ☑️      |
 | Enchanted Golden Apple crafting recipe              | ✅           | ☑️      |
-| Jack-O-Lantern & Jungle Tree Sapling names restored | ❌           | ☑️      |
+| Jack-O-Lantern & Jungle Tree Sapling names restored | ✔️           | ☑️      |
 | Fortune melons (up to 10 slices)                    | ✅           | ☑️      |
 | Sand/Red Sand blast furnace smelting                | ✅           | ☑️      |
-| Short Grass → Tall Grass                            | ❌           | ☑️      |
-| Tall Grass → Double Tall Grass                      | ❌           | ☑️      |
+| Short Grass → Tall Grass                            | ✔️           | ☑️      |
+| Tall Grass → Double Tall Grass                      | ✔️           | ☑️      |
 | Phantoms have 10 HP                                 | ❌           | ☑️      |
 | Vindicators deal reduced damage                     | ❌           | ☑️      |
 | Wandering Traders sell flowers & red sandstone      | ❌           | ☑️      |
