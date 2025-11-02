@@ -49,11 +49,11 @@ For the complete experience, make sure to install [Legacy Mechanics: Addon](http
 | Closer structure generation                         | ❌           | ☑️      |
 | Dead bushes drop 1 stick                            | ✅           | ☑️      |
 | Enchanted Golden Apple crafting recipe              | ✅           | ☑️      |
-| Jack-O-Lantern & Jungle Tree Sapling names restored | ✔️           | ☑️      |
+| Jack-O-Lantern & Jungle Tree Sapling names restored | [✔️](https://modrinth.com/resourcepack/legacy-mechanics-addon)           | ☑️      |
 | Fortune melons (up to 10 slices)                    | ✅           | ☑️      |
 | Sand/Red Sand blast furnace smelting                | ✅           | ☑️      |
-| Short Grass → Tall Grass                            | ✔️           | ☑️      |
-| Tall Grass → Double Tall Grass                      | ✔️           | ☑️      |
+| Short Grass → Tall Grass                            | [✔️](https://modrinth.com/resourcepack/legacy-mechanics-addon)           | ☑️      |
+| Tall Grass → Double Tall Grass                      | [✔️](https://modrinth.com/resourcepack/legacy-mechanics-addon)           | ☑️      |
 | Phantoms have 10 HP                                 | ❌           | ☑️      |
 | Vindicators deal reduced damage                     | ❌           | ☑️      |
 | Wandering Traders sell flowers & red sandstone      | ❌           | ☑️      |
